@@ -4,7 +4,7 @@ social_link: twitter
 social_username: Horriblechild
 github_repo: athena
 github_username: Horriblechild
-theme_color: black
+theme_color: dark
 remote_theme: internet-de-france/swiss
 baseurl: /dreadful_drops
 defaults:
