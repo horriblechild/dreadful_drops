@@ -6,7 +6,7 @@ github_repo: athena
 github_username: Horriblechild
 theme_color: dark
 remote_theme: internet-de-france/swiss
-baseurl: /dreadful_drops
+baseurl: https://github.com/horriblechild/dreadful_drops
 defaults:
   - scope:
       path: ''
